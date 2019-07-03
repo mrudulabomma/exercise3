@@ -22,4 +22,9 @@ public class ReversepalindromeTest {
         assertEquals("palindrome",res);
 
     }
+    @Test
+    public void checkNull(){
+        String result=rp.reverse((""));
+        assertEquals("error",result);
+    }
 }

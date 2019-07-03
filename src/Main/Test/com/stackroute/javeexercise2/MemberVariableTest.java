@@ -1,6 +1,6 @@
-package main.test.com.stackroute.pe2;
+package com.stackroute.javeexercise2;
 
-import main.java.com.stackroute.pe2.MemberVariable;
+import com.stackroute.javeexercise2.MemberVariable;
 import org.junit.After;
 import org.junit.Before;
 import org.junit.Test;

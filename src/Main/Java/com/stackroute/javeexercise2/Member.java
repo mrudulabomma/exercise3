@@ -1,4 +1,4 @@
-package main.java.com.stackroute.pe2;
+package com.stackroute.javeexercise2;
 
 public class Member {
     String name;
